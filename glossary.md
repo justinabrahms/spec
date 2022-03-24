@@ -45,11 +45,11 @@ The maintainer of a shared library which is a dependency of many applications or
 
 ### Feature Flag SDK
 
-The interfaces and abstractions used by Application Author to implement feature flags in their application or service.
+The libraries used by Application Author to implement feature flags in their application or service. The interface of these libraries adhere to the Feature Flag API.
 
 ### Feature Flag API
 
-The interfaces and abstractions used by Provider Authors and Integration Authors to add support for their feature flag implementation or integration.
+The interfaces and abstractions used by Provider & Integration authors to add support for their feature flag implementation or integration.
 
 ### Provider
 
